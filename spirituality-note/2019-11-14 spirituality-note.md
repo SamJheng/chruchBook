@@ -1,4 +1,4 @@
-## 2019-11-14 Spirituality Note
+## 2019-11-14 spirituality-note
 
 **馬可福音:10:18-21**
 

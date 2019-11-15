@@ -1,4 +1,4 @@
-## 	2019-11-13 Spirituality Note
+## 	2019-11-13 spirituality-note
 **馬可福音16:15-18**
 
 1. 信的必然得救
