@@ -26,7 +26,7 @@
   * [2019-11-14 spirituality-note](spirituality-note/2019-11-14-spirituality-note.md)
   * [2019-11-13 spirituality-note](spirituality-note/2019-11-13-spirituality-note.md)
   * [2019-11-11 spirituality-note](spirituality-note/2019-11-11-spirituality-note.md)
-  * [2019-11-19 spirituality-note](spirituality-note/2019-11-19 spirituality-note.md)
+  * [2019-11-19 spirituality-note](spirituality-note/2019-11-19-spirituality-note.md)
 * [main-day-message](main-day-message/README.md)
   * [信仰就是要進天國](main-day-message/2019-09-22-main-day-message.md)
   * [預備成為回應呼招的人](main-day-message/2019-09-08-main-day-message.md)
