@@ -2,7 +2,8 @@
 
 * [README](README.md)
 * [spirituality-note](spirituality-note/README.md)
-  * [2019-09-10 spirituality-note](spirituality-note/2019-09-10-spirituality-notemd.md)
+  * [2019-11-11 spirituality-note](spirituality-note/2019-11-11-spirituality-note.md)
+  * [2019-09-10 spirituality-note](spirituality-note/2019-09-10-spirituality-note.md)
   * [2019-10-07 spirituality-note](spirituality-note/2019-10-07-spirituality-note.md)
   * [2019-10-28 spirituality-note](spirituality-note/2019-10-28-spirituality-note.md)
   * [2019-10-17 spirituality-note](spirituality-note/2019-10-17-spirituality-note.md)
@@ -16,7 +17,6 @@
   * [2019-10-12 spirituality-note](spirituality-note/2019-10-12-spirituality-note.md)
   * [2019-10-01 spirituality-note](spirituality-note/2019-10-01-spirituality-note.md)
   * [2019-10-22 spirituality-note](spirituality-note/2019-10-22-spirituality-note.md)
-  * [2019-11-11 spirituality-note](spirituality-note/2019-11-11-spirituality-note.md)
   * [2019-10-10 spirituality-note](spirituality-note/2019-10-10-spirituality-note.md)
   * [2019-08-29 spirituality-note](spirituality-note/2019-08-29-spirituality-note.md)
   * [2019-10-30 spirituality-note](spirituality-note/2019-10-30-spirituality-note.md)
