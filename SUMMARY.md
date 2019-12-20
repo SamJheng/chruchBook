@@ -38,6 +38,8 @@
   * [2019-12-10 spirituality-note](spirituality-note/2019-12-10-spirituality-note.md)
   * [2019-12-14 spirituality-note](spirituality-note/2019-12-14-spirituality-note.md)
   * [2019-12-16 spirituality-note](spirituality-note/2019-12-16-spirituality-note.md)
+  * [2019-12-18 spirituality-note](spirituality-note/2019-12-18-spirituality-note.md)
+  * [2019-12-20 spirituality-note](spirituality-note/2019-12-20-spirituality-note.md)
 * [main-day-message](main-day-message/README.md)
   * [信仰就是要進天國](main-day-message/2019-09-22-main-day-message.md)
   * [預備成為回應呼招的人](main-day-message/2019-09-08-main-day-message.md)
