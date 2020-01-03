@@ -2,7 +2,7 @@
 description: '詩篇16:8-11'
 ---
 
-# 2020-1-02 spirituality-note
+# 2020-01-02 spirituality-note
 
 1. 上帝賜平安\(耶和華沙龍\)
 2. 主權奉獻讓上帝帶領我
