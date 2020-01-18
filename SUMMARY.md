@@ -1,6 +1,7 @@
 # Table of contents
 
 * [README](README.md)
+* [witness](witness.md)
 * [spirituality-note](spirituality-note/README.md)
   * [2019-08-26 spirituality-note](spirituality-note/2019-08-26-spirituality-note.md)
   * [2019-08-29 spirituality-note](spirituality-note/2019-08-29-spirituality-note.md)
