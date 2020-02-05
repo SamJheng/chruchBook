@@ -58,6 +58,7 @@
   * [2020-01-29 spirituality-note](spirituality-note/2020-01-29-spirituality-note.md)
   * [2020-01-30 spirituality-note](spirituality-note/2020-01-30-spirituality-note.md)
   * [2020-02-01 spirituality-note](spirituality-note/2020-02-01-spirituality-note.md)
+  * [2020-02-05 spirituality-note](spirituality-note/2020-02-05-spirituality-note.md)
 * [main-day-message](main-day-message/README.md)
   * [信仰就是要進天國](main-day-message/2019-09-22-main-day-message.md)
   * [預備成為回應呼招的人](main-day-message/2019-09-08-main-day-message.md)
